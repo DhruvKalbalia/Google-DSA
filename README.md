@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0763-partition-labels) |
+## Array
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
+## Matrix
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
