@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
