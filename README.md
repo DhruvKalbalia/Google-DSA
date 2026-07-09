@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -105,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
