@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0015-3sum) |
 | [0763-partition-labels](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0763-partition-labels) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
