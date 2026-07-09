@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
 | [0763-partition-labels](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0763-partition-labels) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
