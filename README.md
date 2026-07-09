@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
 | [0763-partition-labels](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0763-partition-labels) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
 | [0763-partition-labels](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
