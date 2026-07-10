@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
