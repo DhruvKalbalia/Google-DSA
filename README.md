@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
