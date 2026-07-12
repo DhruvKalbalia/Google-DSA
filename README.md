@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0056-merge-intervals) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
