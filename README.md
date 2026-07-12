@@ -4,21 +4,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Hash Table
 |  |
