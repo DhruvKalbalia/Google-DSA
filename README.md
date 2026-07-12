@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
+| [0543-diameter-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Hash Table
 |  |
