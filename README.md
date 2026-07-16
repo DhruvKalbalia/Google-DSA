@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
 | [1302-deepest-leaves-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -195,4 +198,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
