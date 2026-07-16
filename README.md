@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0743-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
