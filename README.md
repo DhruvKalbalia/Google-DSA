@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0239-sliding-window-maximum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
