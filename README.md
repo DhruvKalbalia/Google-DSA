@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0139-word-break) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvKalbalia/Google-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
